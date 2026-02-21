@@ -2,7 +2,12 @@
 
 A logbook-style card for Home Assistant that displays a timeline of errors and their severity levels.
 
-![Configuration Editor](https://github.com/user-attachments/assets/a92e6e8e-76b3-469e-b1e4-09b1f007a5ff)
+<img width="345" height="347" alt="image" src="https://github.com/user-attachments/assets/e5ace411-a6e3-40b5-8b76-fd74125e538e" />
+
+
+> An adaption of this card to be used with cat tracking
+
+<img width="345" height="397" alt="image" src="https://github.com/user-attachments/assets/8737f0f7-3007-49d5-b324-124a0af05d6d" />
 
 ## Installation
 
@@ -53,6 +58,8 @@ grid_options:
   columns: 12
   rows: 8
 ```
+
+![Configuration Editor](https://github.com/user-attachments/assets/a92e6e8e-76b3-469e-b1e4-09b1f007a5ff)
 
 ## Features
 
