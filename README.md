@@ -2,6 +2,8 @@
 
 A logbook-style card for Home Assistant that displays a timeline of errors and their severity levels.
 
+> This is a personal project and I will not be assisting with issues. I will, however, push any updates or changes that I make.
+
 <img width="345" height="347" alt="image" src="https://github.com/user-attachments/assets/e5ace411-a6e3-40b5-8b76-fd74125e538e" />
 
 
